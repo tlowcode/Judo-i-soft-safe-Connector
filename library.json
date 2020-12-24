@@ -1,12 +1,12 @@
 {
-	"id": "{CB0FA488-0668-417D-9132-BC2398476D02}",
-	"author": "Daniel Schäfer",
-	"name": "Alarm System",
-	"url": "https://github.com/daschaefer/SymconAlarmSystem.git",
+	"id": "{D2509653-2F2B-717C-1990-9F9DF8437C8F}",
+	"author": "Thilo Ackermann",
+	"name": "Judo i-soft safe Connector",
+	"url": "https://github.com/tlowcode/Judo-i-soft-safe-Connector.git",
 	"compatibility": {
         "version": "5.0"
     },
-	"version": "2.5",
+	"version": "1.0",
 	"build": 0,
 	"date": 0
 }
