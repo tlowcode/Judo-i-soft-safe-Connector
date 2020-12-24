@@ -1,14 +1,14 @@
 {
-	"id": "{1257D99B-36E3-4E49-96F8-ACB8124DD372}",
-	"name": "AlarmSystem",
+	"id": "{AE768CE6-7B36-378D-6FF9-CE02251611F7}",
+	"name": "i-soft safe Connector",
 	"type": 3,
-	"vendor": "Daniel Schäfer",
+	"vendor": "Thilo Ackermann",
 	"aliases": 
 	[
-		"Symcon Alarmanlage"
+		"i-soft safe Connector"
 	],
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "ALRM"
+	"prefix": "ISSC"
 }
